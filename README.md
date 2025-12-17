@@ -1,8 +1,3 @@
-<!-- HERO -->
-<p align="center">
-  <img src="assets/banner.png" alt="Mushroom Edibility Classification Banner" width="900">
-</p>
-
 <h1 align="center">🍄 Mushroom Edibility Classification (Neural Network + PCA)</h1>
 
 <p align="center">
@@ -115,4 +110,7 @@ Evaluation:
 
 ---
 
-## 🗂 Repo Structure
+👤 Author
+
+Imanuel Annoh
+GitHub: https://github.com/annohimanuel
